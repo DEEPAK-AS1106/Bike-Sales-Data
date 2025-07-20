@@ -1,2 +1,2 @@
 # Bike-Sales-Data
-Entri apps Mini Project
+Customer demographic and lifestyle data from this dataset is used to examine trends in bike buying behavior. To ensure a smooth transition into data analytics and visualization tools, the data has been preprocessed. In addition to the target variable Purchased Bike, it contains structured columns for Marital Status, Gender, Income, Education, Occupation, Home Ownership, Commute Distance, Region, and Age. For accurate analysis, all pertinent fields have been type-adjusted, missing values have been addressed, and categorical data has been cleaned. Dashboards, machine learning models, and other data-driven projects that concentrate on customer behavior and marketing tactics are perfect for using this preprocessed version.
